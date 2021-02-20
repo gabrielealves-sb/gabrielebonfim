@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielebonfim)](https://github.com/gabrielebonfim)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielealvesbonfim/)](https://www.linkedin.com/in/gabrielealvesbonfim/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabrielebonfim_)](https://twitter.com/fagnerpsantos)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/gabrielebonfim_)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabrielebonfim_)](https://twitter.com/gabrielebonfim_)
+
 
 PT-BR :brazil:
 Olá! Me chamo Gabriele Bonfim. Sou graduanda em Analise e Desenvolvimento de Sistemas e estagiária no Centro Universitário U:VERSE :computer:. 
