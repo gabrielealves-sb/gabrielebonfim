@@ -12,5 +12,3 @@ Atualmente aprendendo desenvolvimento web e trabalhando com Wordpress/Elementor.
 Buscando aprender cada vez mais 🌱
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielebonfim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielebonfim&show_icons=true&theme=dracula)
