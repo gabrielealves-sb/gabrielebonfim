@@ -7,7 +7,7 @@
 PT-BR :brazil:
 
 Olá! Me chamo Gabriele Bonfim. Sou graduanda em Analise e Desenvolvimento de Sistemas e estagiária no Centro Universitário U:VERSE :computer:. 
-Atualmente aprendendo desenvolvimento web e trabalhando com Wordpress/Elementor. 
+Atualmente aprendendo desenvolvimento web e trabalhando com Python/Django. 
 
 Buscando aprender cada vez mais 🌱
 
