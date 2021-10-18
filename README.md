@@ -1,4 +1,4 @@
-!(https://i.ibb.co/NxpW8Yd/gabs.gif)
+![Banner](https://i.ibb.co/NxpW8Yd/gabs.gif)
 PT-BR :brazil:
 
 My name is Gabriele Alves, I'm a brazilian full-stack developer.  
